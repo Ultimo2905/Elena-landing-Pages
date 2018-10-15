@@ -2,21 +2,18 @@
 	box-sizing: border-box;
 		margin: 0;
 }
-
 .container{
 	width: 800px;
 	margin: 0 auto;
 }
-
 .one{
-	background: url(../img/bg.jpg) no-repeat center;
-	height: 590px;
+	width: 800px;
+	background: url(../img/bg.jpg) no-repeat center fixed;
 	text-align: center;
-	
 }
 .button_heder{
 	padding: 30px;
-	}
+}
 
 .one .price-btn .{
 	background-color: #50c3af;
@@ -33,7 +30,6 @@
 	border: 0px;
 	color:#f5f5f5;
 	font-size: 14px;
-	
 	height: 50px;
 	width: 235px;
 	border-radius: 100px;
@@ -56,7 +52,6 @@
 	background-color:#eeeeef;
   	text-align: center;
    	height: 290px;
-
 }
 .two h2{
 	font-family: 'PT Sans', sans-serif;
@@ -82,12 +77,10 @@
 	background-color: #e9e9ea;
 	margin: 0 auto;
 }
-
 .m-menu{
 	display: flex;
 	justify-content: center;
 	list-style: none;
-
 	}
 .m-menu a{
 	color:#fff;
@@ -96,8 +89,6 @@
 .logo{
 	padding-top: 67px;
 }
-
-
 .m-menu li{
 	font-family: 'Ubuntu', sans-serif;
 	padding: 45px 35px 0 30px;
@@ -121,6 +112,7 @@ h1{
 	display: inline-block;
 	vertical-align: middle;
 	margin-left: 30px;
+	opacity: 0.2;
 }
 .main-text p::before{
 	content: '';
@@ -130,15 +122,15 @@ h1{
 	display: inline-block;
 	vertical-align: middle;
 	margin-right: 30px;
+	opacity: 0.2;
 }
-  .main-text p{
+ .main-text p{
 	font-family: 'PT Sans', sans-serif;
 	color: #fff;
 	margin: 0;
 	font-size: 15px;
 	padding: 45px 30px 0 30px;
 }
-
 .three{
 	display: flex;
 	justify-content: space-between;
@@ -162,40 +154,36 @@ h1{
     text-transform: uppercase;
 	color: #384048;
 	margin-top: 45px;
-	}
+}
 	.three .line{
    	margin-top: 20px;
-	}
+}
  .three p{
  	font-family: 'PT Sans', sans-serif;
 	line-height: 24px;
 	max-width: 264px;
 	color: #787b80;
 	margin: 32px 0 0 0;
-	font-size: 14px;
-	
+	font-size: 14px;	
 }
-
 .three .price-btn{
 	margin-top:35px;
 }
-
   .four{
   	margin-top: 50px;	
   	background-color: #eeeeef;
   	height: 330PX;
-  }
+}
     .four .four_img{
   	margin: 65px 15px 0 100px;
-  }
+}
     .four h2{
   	font-family: 'PT Sans', sans-serif;
     font-size:18px ;
     font-weight: bold;
     text-transform: uppercase;
-  }
+}
 .four .line_four{
-
 	width: 585px;
 	height: 2px;
 	background-color: #e9e9ea;
@@ -208,7 +196,6 @@ h1{
 	margin: 30px 105px 0 100px;
 	line-height: 24px;
 }
-
 .price-btn_four{
 	background-color: #d2d5da;
 	color:#f5f5f5;
@@ -219,16 +206,13 @@ h1{
 	border: 0px;
 	transition: 0.3s;
 }
-
-
 .five{
 	display: flex;
   	max-width: 600px;
   	margin: 0 auto;
 }
 .five img{
-	margin-top: 60px;
-	
+	margin-top: 60px;	
 }
 .five h4{
 	font-family: 'PT Sans', sans-serif;
@@ -263,19 +247,18 @@ h1{
 	display: flex;
 	justify-content: space-between;
 	max-width: 600px;
-  	margin: 0 auto; 
-  	
+  	margin: 0 auto; 	
 }
   .six .six_img{
   	margin: 60px 15px 0 0;
-  }
+}
 .six h2{
   	font-family: 'PT Sans', sans-serif;
     font-size:18px ;
     font-weight: bold;
     text-transform: uppercase;
 
-  }
+}
   .six .line{
 	margin-top: 25px;
 	width: 255px;
@@ -297,6 +280,7 @@ h1{
 	margin: 35px auto;
 	border-radius: 100px;
 	transition: 0.3s;
+	border: 0px;
 }
 .seven{
 	display: flex;
@@ -305,7 +289,6 @@ h1{
   	margin: 0 auto;
   	margin-top: 60px;
 }
-
 .text h2{
 	font-family: 'PT Sans', sans-serif;
     font-size:18px ;
@@ -325,23 +308,20 @@ h1{
 	color:#f5f5f5;
 	font-size: 14px;
 	padding: 10px 20px;
-	margin:35px 0 0 24px;
+	margin:35px 0 0 33px;
 	border-radius: 100px;
 	border: 0px;
 	transition: 0.3s;
 }
-
 .eight{
 	background-color: #50c3af;
 	text-align: center;
 	margin-top: 60px;
 	width: 800px;
-	height: 220px;
-	
+	height: 220px;	
 }
 .eight .img_eight{
 	padding:0 10px 0 0;
-
 }
 .eight h4{
 	padding-top: 53px;
@@ -352,8 +332,10 @@ h1{
     text-transform: uppercase;
 }
 .eight .line{
-	width: 255px;
-	margin: 25px 0 0 277px;
+	width: 229px;
+	margin: 25px 0 0 287px;
+	background-color:#f5f5f5;
+	opacity: 0.1;
 }
 .eight_logo{
 	display: flex;
@@ -361,7 +343,6 @@ h1{
 	margin:40px 0 0 105px;
 	max-width: 600px;
 }
-
 .nine{
 	display: flex;
 	justify-content: space-between;
@@ -373,8 +354,6 @@ h1{
     font-size:13px ;
     color: #aaacaf;
 }
-
-
 .copy{
 	margin-left: 50px;
 }
@@ -383,24 +362,13 @@ h1{
 	color:grey;
 	padding: 10px;
 }
-
 .social-links:nth-child(2){
 	margin-right: 105px;
 }
 .line{
-	
-	
 	height: 2px;
 	background-color: #e9e9ea;
 	
 }
- button:hover {text-shadow: -4px 4px 0px black;
-      transition: 0.3s;
-      top: 4px;
-      right: 4px;
-      font-weight: bold;
-      opacity: 0.8;
-      cursor: pointer;
-        }
 
 
