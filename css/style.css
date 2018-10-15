@@ -178,7 +178,9 @@ h1{
   	margin: 65px 15px 0 100px;
 }
     .four h2{
-  	font-family: 'PT Sans', sans-serif;
+    display: flex;
+    align-items: flex-end;
+    font-family: 'PT Sans', sans-serif;
     font-size:18px ;
     font-weight: bold;
     text-transform: uppercase;
