@@ -8,7 +8,7 @@
 }
 .one{
 	width: 800px;
-	background: url(../img/bg.jpg) no-repeat center fixed;
+	background: url(../img/bg.jpg) no-repeat center;
 	text-align: center;
 }
 .button_heder{
