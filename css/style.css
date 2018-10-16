@@ -171,7 +171,7 @@
      height: 330PX;
 }
  .four .four_img{
-     margin: 65px 15px 0 100px;
+     padding: 65px 15px 0 100px;
 }
  .four h2{
      display: flex;
