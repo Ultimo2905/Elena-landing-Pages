@@ -6,5 +6,7 @@
 [Link](https://ultimo2905.github.io/Elena-landing-Pages/)
 
 
-Inline-style: 
-![alt text](https://github.com/Ultimo2905/Elena-landing-Pages/blob/master/elena-email-psd-theme.psd "Logo Title Text 1")
+Reference-style: 
+![alt text][logo]
+
+[logo]:https://github.com/Ultimo2905/Elena-landing-Pages/blob/master/elena-email-psd-theme.psd "Logo Title Text 1"
