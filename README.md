@@ -6,7 +6,5 @@
 [Link](https://ultimo2905.github.io/Elena-landing-Pages/)
 
 
-Reference-style: 
-![alt text][logo]
-
-[logo]:https://github.com/Ultimo2905/Elena-landing-Pages/blob/master/elena-email-psd-theme.psd
+ 
+![alt text]:https://github.com/Ultimo2905/Elena-landing-Pages/blob/master/elena-email-psd-theme.psd
