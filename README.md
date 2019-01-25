@@ -7,4 +7,4 @@
 
 
  
-[Link for Elena-landing-Pages.psd](https://github.com/Ultimo2905/Elena-landing-Pages/blob/master/elena-email-psd-theme.psd)
+[Link for Elena-landing-Pages.psd](https://github.com/Ultimo2905/Elena-landing-Pages/blob/master/elena-email-psd-theme.jpg)
